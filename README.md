@@ -17,3 +17,4 @@
 
 ## Mocking
 * [mocky.io](http://www.mocky.io/)
+* [jsonplaceholder](http://jsonplaceholder.typicode.com/)
